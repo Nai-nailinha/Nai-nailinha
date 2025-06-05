@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👩‍💻 Enaile Lopes
 
-<!--
-**Nai-nailinha/Nai-nailinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sustentação de Sistemas | SQL | Cloud | IA  
+🎯 PCD (Autista) | Neurodivergente na tecnologia | Solucionadora de problemas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mim
+
+Oi! Sou a Enaile, apaixonada por resolver problemas técnicos com empatia e criatividade.  
+Atuo com sustentação de sistemas há mais de 15 anos, transitando entre o mundo da programação, banco de dados e cloud.  
+Gosto de explorar IA e automações que facilitem o dia a dia.  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- SQL Server, Oracle, PLSQL  
+- Python, VBA, C#, React Native  
+- Git, GitHub, GitLab  
+- Firebase, SharePoint, Remedy, Azure, Power BI  
+- Inteligência Artificial & Cloud (em formação contínua)
+
+---
+
+## 🧠 Destaques do Portfólio
+
+🔹 [**Mensagem Padrão**](https://github.com/Nai-nailinha/mensagemPadrao)  
+App simples em Python para agilidade em chamados, com edição e leitura de mensagens por CSV.
+
+🔹 [**NannyTech**](https://github.com/Nai-nailinha/nannytech)  
+Aplicativo de controle parental com React Native e Firebase, foco em segurança e rotinas infantis (em andamento).
+
+🔹 [**Validador de Boletos**]([https://github.com/Nai-nailinha/validador-boleto](https://github.com/Nai-nailinha/validaBoleto))  
+Script que identifica bandeiras e valida dados de boletos automaticamente (parte de um desafio DIO).
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EnaileLopes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/enailelopes)  
+📘 Blog: [codigoatipico.wordpress.com](https://codigoatipico.wordpress.com)
+
+---
+
+> 🌈 “Onde o código encontra o neuro.”  
