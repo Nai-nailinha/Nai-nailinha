@@ -31,7 +31,7 @@ App simples em Python para agilidade em chamados, com edição e leitura de mens
 🔹 [**NannyTech**](https://github.com/Nai-nailinha/nannytech)  
 Aplicativo de controle parental com React Native e Firebase, foco em segurança e rotinas infantis (em andamento).
 
-🔹 [**Validador de Boletos**]([https://github.com/Nai-nailinha/validador-boleto](https://github.com/Nai-nailinha/validaBoleto))  
+🔹 [**Validador de Boletos**](https://github.com/Nai-nailinha/validaBoleto)
 Script que identifica bandeiras e valida dados de boletos automaticamente (parte de um desafio DIO).
 
 ---
@@ -39,7 +39,8 @@ Script que identifica bandeiras e valida dados de boletos automaticamente (parte
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EnaileLopes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/enailelopes)  
-📘 Blog: [codigoatipico.wordpress.com](https://codigoatipico.wordpress.com)
+
+[![DIO](https://img.shields.io/badge/DIO-Perfil_Oficial-blueviolet?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...)](https://www.dio.me/users/nai_nailinha)
 
 ---
 
